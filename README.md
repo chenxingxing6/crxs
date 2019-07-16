@@ -10,3 +10,5 @@
 
 - [（二）将自己开发的chrome扩展添加至白名单](doc/（二）将自己开发的chrome扩展添加至白名单.md)
 
+![avatar](https://raw.githubusercontent.com/chenxingxing6/crxs/master/demo/demo.jpg)
+
