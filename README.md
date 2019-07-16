@@ -18,10 +18,3 @@
 --- 
 #### Demo2 my_clock
 ![avatar](https://raw.githubusercontent.com/chenxingxing6/crxs/master/demo/clock.jpg)
-
-
---- 
-#### Demo3 my_clock
-![avatar](https://raw.githubusercontent.com/chenxingxing6/crxs/master/demo/clock.jpg)
-
-
